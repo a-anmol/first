@@ -12,3 +12,6 @@ code . <file>
 git commit -m "commit message"
 git log (summery of commits)
 git show 7-8 digit commit id
+git ls-files
+touch sample2.txt
+ls-lrt
