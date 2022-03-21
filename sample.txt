@@ -1,2 +1,7 @@
 Hi this is a session from edurekha.
 Adding a new line.
+git add <file>
+git commit -m "mcommiting message"
+git status
+git ls-files
+ls-lrt
